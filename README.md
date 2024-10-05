@@ -1,4 +1,4 @@
-Stock Portfolio Assignment
+Stock Portfolio
 
 Rajsi Traders is a small firm that has launched a platform where it will display a few stocks which is for working employees. In their platform, they have a few stocks mentioned which you can add to your portfolio and it will also generate the “Profit/Loss” scenario based on the market price and current stock price.
 
